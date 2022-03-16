@@ -56,11 +56,15 @@ h3{
    border-radius: 50%;
    color: green;
    text-align: center;
+   line-height: 5px;
+   height: 5px;
 }
 .circle2{
    border: 1px solid red ;
    border-radius: 50%;
    color:red;
+   height: 5px;
+   line-height: 5px;
    text-align: center;
 
 }
@@ -87,4 +91,12 @@ h3{
 }
 .tag-lightgreen{
    background-color: lightgreen;
+}
+.task{
+   margin-bottom: 20px;
+   margin-left: 30px;
+}
+.task-list{
+   margin-left: 30px;
+   margin-bottom: 15px;
 }
